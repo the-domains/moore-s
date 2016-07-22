@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[moore's]]></title>
         <description><![CDATA[moore's]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moore-s/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 19:24:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 02:03:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moore-s/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[YWAM TYLER FAMILY]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e64d47-4ca2-4b3e-b723-feaa2472951d.jpg">]]></description>
-            <link>undefinedgod-wants-us-to-go-to-all-nations-spreading-the-gospel/index.html</link>
+            <link>https://thegrid.ai/moore-s/god-wants-us-to-go-to-all-nations-spreading-the-gospel/index.html</link>
             <guid isPermaLink="false">a5e45d0d-5fc1-496a-a8d9-c639795c6586</guid>
-            <pubDate>Fri, 15 Jul 2016 19:24:24 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2016 02:03:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
