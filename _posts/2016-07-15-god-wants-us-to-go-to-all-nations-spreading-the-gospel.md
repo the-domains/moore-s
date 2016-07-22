@@ -5,14 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: God wants us to go to all nations spreading the gospel
-datePublished: '2016-07-15T19:24:24.102Z'
-dateModified: '2016-07-15T19:24:23.716Z'
+datePublished: '2016-07-22T02:03:54.769Z'
+dateModified: '2016-07-22T02:03:22.284Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: _posts/2016-07-15-god-wants-us-to-go-to-all-nations-spreading-the-gospel.md
+via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: god-wants-us-to-go-to-all-nations-spreading-the-gospel/index.html
 _type: Article
 
